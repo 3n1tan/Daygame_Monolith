@@ -1,0 +1,53 @@
+# Ignore config sync directory
+config/sync
+
+# Ignore Drupal 10+ composer.lock file
+composer.lock
+
+# Ignore Drupal 10+ vendor directory
+/vendor/
+
+# Ignore Drupal 10+ web/core/modules/contrib directory
+web/core/modules/contrib
+
+# Ignore Drupal 10+ web/core/themes/contrib directory
+web/core/themes/contrib
+
+# Ignore Drupal 10+ web/libraries directory
+web/libraries
+
+# Ignore Drupal 10+ web/sites/default/files directory
+web/sites/default/files
+
+# Ignore Drupal 10+ web/sites/default/config_1IU56febv3YJzRC3vGbJT8UWNCvp8CaMr2cT_dcZ4xb6_3rTfnVRx5zfp2E_nFq6kz5ZpFqhiQ directory
+web/sites/*/files
+web/sites/*/private
+
+# Ignore Drupal 10+ web/themes/custom directory
+web/themes/custom
+
+# Ignore Drupal 10+ web/config directory
+web/config
+
+# Ignore Drupal 10+ web/sites/default/files/config_1IU56febv3YJzRC3vGbJT8UWNCvp8CaMr2cT_dcZ4xb6_3rTfnVRx5zfp2E_nFq6kz5ZpFqhiQ directory
+/web/sites/*/settings*.php
+/web/sites/*/services*.yml
+
+# Ignore IDE files
+/ .idea/
+/ .vscode/
+
+# Ignore .env file
+.env
+
+# Ignore node modules
+/node_modules
+
+# Ignore css files
+*.css.map
+
+# Ignore js files
+*.js.map
+
+# Ignore Mac DS_Store file
+.DS_Store
