@@ -33,7 +33,7 @@
         "drupal/pathauto": "^1.13",
         "drupal/rename_admin_paths": "^3.0",
         "drupal/responsive_menu": "^4.4",
-        "drupal/responsive_menus": "2.0.x-dev@dev",
+        "drupal/responsive_menus": "^2.0@beta",
         "drupal/smart_trim": "^2.2",
         "drupal/superfish": "^1.8",
         "drupal/webform": "^6.2",
