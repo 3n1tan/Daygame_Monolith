@@ -35,6 +35,7 @@
         "drupal/responsive_menu": "^4.4",
         "drupal/responsive_menus": "^2.0@beta",
         "drupal/smart_trim": "^2.2",
+        "drupal/social_media_links": "^2.10",
         "drupal/superfish": "^1.8",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.5"
